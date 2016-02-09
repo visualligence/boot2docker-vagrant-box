@@ -4,4 +4,6 @@ packer_cache/
 *.box
 *.iso
 output*
-**/Vagrantfile*.env
+**/Vagrantfile
+*.env
+
